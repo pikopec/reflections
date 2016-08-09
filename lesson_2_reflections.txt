@@ -7,6 +7,10 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+	Staging area gives a possibility to pick and group files before commiting them 
+	to the repository. It does not have its log and also not all files from working 
+	directory must be added to the staging area. 
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
