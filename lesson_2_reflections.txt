@@ -13,9 +13,17 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-
+	
+	I can add files to staging area before commiting it and check if there are all 
+	changes i want to commit by comparing content of staging area with working directory
+	or recent commit.
+	
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+	When multiple new features are developed at the same time it is easier to make 
+	a branch for each feature. This way commits concerning one feature are grouped 
+	and comparing changes in particular functionality takes less time.
 
 How do the diagrams help you visualize the branch structure?
 
