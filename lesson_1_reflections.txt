@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It allowed me to check all changes made in that file. Comparing it witch 
+	previously working code I managed to find differences responsible for bugs. 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It will be easier to restore changes made at some point of code developement.
+	Also I will be able to compare changes made in code to choose better solution.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Making manually commits allows to updade project maintaining logical order. 
+	Therefore it is easier to revise code in case of bugs or when functionality 
+	of an appication differs from what was assumed. On the other hand automatically 
+	saving is quicker and it is less likely to loss data due to break in power supply.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Saving multiple files in one commit allows to maintain changes at desired logical 
+	point, when tere are connection between files user can modify different files to add 
+	one functionality. Google Docs treat each file separetly because it automatically 
+	saves files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    I can use git log to get the list of all commits. Then I can use git diff to check 
+	differences in a file between two commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I would be always able to get back to version that worked and compare it with code 
+	in which bug occured.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I would like to try to use Git for a version control.
